@@ -98,8 +98,8 @@ class AdminNavbar extends React.Component {
                   <span className="navbar-toggler-bar bar3" />
                 </button>
               </div>
-              <NavbarBrand href="https://bitdandy.com//" target="_blank">
-                <img alt="..." src={require('../../assets/img/title-name.png')} />
+              <NavbarBrand href="https://exchange.softtik.com/" target="_blank">
+                <img alt="..." src={require('../../assets/img/title.png')} />
               </NavbarBrand>
             </div>
             <Collapse navbar isOpen={this.state.collapseOpen}>
@@ -112,9 +112,8 @@ class AdminNavbar extends React.Component {
                     nav
                     onClick={e => e.preventDefault()}
                   >
-                    <div className="photo"
-                      style={{ display: 'flex', justifyContent: 'center', backgroundColor: '#fff' }}>
-                      <img alt="..." src={require('../../assets/img/logo.png')} style={{ width: '75%' }} />
+                    <div className="photo">
+                      <img alt="..." src={require('../../assets/img/logo.png')} style={{ width: '100%' }} />
                     </div>
                     <b className="caret d-none d-lg-block d-xl-block" />
                     <p className="d-lg-none">Logout</p>

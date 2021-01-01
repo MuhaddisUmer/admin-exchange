@@ -101,7 +101,7 @@ class Admin extends React.Component {
           activeTab={activeTab}
           bgColor={this.state.backgroundColor}
           logo={{
-            outterLink: "https://bitdandy.com//",
+            outterLink: "https://exchange.softtik.com/",
             text: "BitDandy",
           }}
           toggleSidebar={this.toggleSidebar}

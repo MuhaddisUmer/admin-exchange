@@ -3033,7 +3033,8 @@ input[type="button"].btn-block {
   .nav-tabs .nav-item.show .nav-link {
     color: #525f7f;
     background-color: #1e1e2f;
-    border-color: #e3e3e3 #e3e3e3 #1e1e2f; }
+    border-color: #e3e3e3 #e3e3e3 #1e1e2f; 
+  }
   .nav-tabs .dropdown-menu {
     margin-top: -0.0625rem;
     border-top-left-radius: 0;

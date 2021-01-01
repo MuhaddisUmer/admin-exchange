@@ -3,7 +3,7 @@ import React, { Component } from "react";
 import Button from '@material-ui/core/Button';
 import { ValidatorForm, TextValidator } from 'react-material-ui-form-validator';
 
-import logo from '../../assets/img/logo-name.png';
+import logo from '../../assets/img/title.png';
 import { login, isloginDisabled } from "../../store/actions/Auth";
 
 import './index.css';
