@@ -1,0 +1,13 @@
+
+/* ========== Custom Styles Coins Table =========== */
+  
+.coins-table .rt-tbody .rt-td p.coin-symbol {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 500;
+  }
+
+.coins-table .rt-tbody .rt-td img.coin-img {
+  width: 30px;
+  height: 30px;
+}

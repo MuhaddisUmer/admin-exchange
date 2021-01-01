@@ -1,0 +1,48 @@
+.cancel-input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/*========== Custom Styles Delete-Modal ============= */
+
+.multi-wallet-modal .modal-content {
+    padding: 15px;
+}
+
+.multi-wallet-modal .modal-header .close {
+  color: #1d8cf8 !important;
+}
+
+.multi-wallet-modal .modal-header {
+  display: flex;
+  justify-content: center;
+}
+
+.multi-wallet-modal .modal-header .modal-title {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.multi-wallet-modal .modal-body {
+  display: flex;
+  flex-direction: row;
+}
+
+.multi-wallet-modal .modal-body .body-title {
+  background-color:  rgb(201, 201, 201);
+}
+
+.multi-wallet-modal .modal-body .body-title p {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.multi-wallet-modal .modal-body .body-text {
+  border-bottom: 1px solid #000000;
+}
+
+.multi-wallet-modal .modal-body .body-text {
+  font-size: 13px;
+}

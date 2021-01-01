@@ -1,0 +1,20 @@
+/*========== Custom Styles Delete-Modal ============= */
+
+.delete-modal .modal-content {
+    padding: 15px;
+}
+
+.delete-modal .modal-header .close {
+  display: none;
+}
+
+.delete-modal .modal-header .modal-title {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.delete-modal .modal-footer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}

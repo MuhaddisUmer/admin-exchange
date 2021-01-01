@@ -1,0 +1,35 @@
+/*========== Custom Styles User Details  ============= */
+
+.user-details .nav-tabs .nav-link.active,
+.user-details .nav-tabs .nav-item.show .nav-link {
+  background-color: #f4f4f4 !important;
+  border-top-right-radius: 15px;
+}
+
+.user-details .nav-tabs .nav-link.active p {
+  font-weight: 600;
+}
+
+.user-details .nav-tabs .nav-link:hover {
+  border-top-right-radius: 15px !important;
+}
+
+.user-details .nav-items {
+  width:  16%;
+  border: 1px solid rgb(201, 201, 201);
+  border-top-right-radius: 15px;
+  cursor: pointer;
+}
+
+/*========== Custom Styles User Wallet  ============= */
+
+.wallet-table .rt-tbody .rt-td p.coin-symbol {
+  color: #000000;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.wallet-table .rt-tbody .rt-td img.coin-img {
+width: 30px;
+height: 30px;
+}
